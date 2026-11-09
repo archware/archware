@@ -1,4 +1,4 @@
-<h1 align="center">⚡ COTAHA</h1>
+<h1 align="center">⚡ COTAHA (@archware)</h1>
 <h3 align="center">Arquitecto de Software | DIY AI Lab | Creador de Ecosistemas</h3>
 
 <p align="center">
@@ -36,22 +36,32 @@
 ---
 
 ### 🚀 Estado Actual & Colaboración
-- 🔭 **Trabajando actualmente en:** Consolidación de **Atomic-UI** (sistema de diseño en Angular + Signals) y orquestación de agentes de IA locales en hardware dedicado.
-- 🌱 **Profundizando en:** Integración de IDEs con protocolos MCP/ACP, sistemas RAG avanzados (SQLite FTS5) y optimización de LLMs locales (Qwen3-Coder) con `llama.cpp`.
-- 👯 **Buscando colaborar en:** Herramientas de código abierto para arquitectura empresarial, procesamiento PDF nativo en memoria (Tauri/Rust) o ecosistemas de IA offline.
-- 💬 **Pregúntame sobre:** Domain-Driven Design (DDD), Arquitectura Hexagonal, CQRS estricto, o cómo montar y refrigerar tu propio servidor bare-metal para IA.
-- 📫 **Cómo contactarme:** A través de mi [LinkedIn](https://www.linkedin.com/in/havel-contreras-tapahuasco-70a109167/) o escríbeme a **havel363@gmail.com**.
-- ⚡ **Dato curioso:** No solo diseño software; también construyo y modifico infraestructura física a nivel electrónico (circuitos de enfriamiento líquido/termoeléctrico, hardware DIY) para correr modelos pesados (30B - 37B parámetros) en mi propio laboratorio local.
+*   🔭 **Trabajando actualmente en:** Consolidación de **Atomic-UI** (sistema de diseño en Angular + Signals), evolución de mis artefactos arquitectónicos (**Artifact Barracuda** & **Artifact Mangosta**), herramientas nativas como **Unión PDF** (`union-pdf`) y orquestación de agentes de IA locales en hardware dedicado.
+*   🌱 **Profundizando en:** Integración de IDEs con protocolos MCP/ACP, sistemas RAG avanzados (SQLite FTS5) y optimización de LLMs locales (Qwen3-Coder) con `llama.cpp`.
+*   👯 **Buscando colaborar en:** Herramientas de código abierto para arquitectura empresarial, procesamiento PDF nativo en memoria (Tauri/Rust) o ecosistemas de IA offline.
+*   💬 **Pregúntame sobre:** Domain-Driven Design (DDD), Arquitectura Hexagonal, CQRS estricto, Artifact Mangosta, Artifact Barracuda, o cómo montar y refrigerar tu propio servidor bare-metal para IA.
+*   📫 **Cómo contactarme:** A través de mi [LinkedIn](https://www.linkedin.com/in/havel-contreras-tapahuasco-70a109167/) o escríbeme a [havel363@gmail.com](mailto:havel363@gmail.com).
+*   ⚡ **Dato curioso:** No solo diseño software; también construyo y modifico infraestructura física a nivel electrónico (circuitos de enfriamiento líquido/termoeléctrico, hardware DIY) para correr modelos pesados (30B - 37B parámetros) en mi propio laboratorio local.
+
+---
+
+### 🧩 Artefactos de Ingeniería & Ecosistema `@archware`
+*   🛡️ **Artifact Mangosta (Backend Artifact):** Artefacto de ingeniería backend para sistemas distribuidos e híbridos basado en Domain-Driven Design (DDD), Clean / Hexagonal Architecture, CQRS estricto y contratos deterministas.
+*   ⚡ **Artifact Barracuda (Frontend Artifact):** Artefacto de chasis frontend reactivo de alto rendimiento construido sobre Angular + Signals, OnPush estricto y arquitectura guiada por tokens semánticos.
+*   🎨 **Atomic-UI (`@atomic-ui/core`):** Sistema de diseño empresarial gobernado por componentes atómicos puros, accesibilidad y trazabilidad criptográfica de artefactos.
+*   📄 **Unión PDF (`union-pdf`):** Estudio nativo multiplataforma (Windows, macOS y Linux) en Rust + Tauri y Angular + Atomic-UI para combinación, conversión de imágenes a hojas A4 y organización visual de documentos PDF 100% en memoria local.
 
 ---
 
 ### ⚙️ Ecosistemas, Arquitectura y Herramientas
-*   **Sistemas Distribuidos:** Domain-Driven Design (DDD), Clean Architecture y CQRS estricto con **C#/.NET** y **Java**, orquestado con eventos en **Apache Kafka**.
-*   **Multi-Runtime Desktop:** Arquitecturas limpias integrando contenedores nativos mediante **Rust (Tauri)**, **Go (Wails)** y **Python (PyWebView)**.
-*   **Bases de Datos & Data Engineering:** Optimización de alto volumen en **SQL Server** (T-SQL) y **PostgreSQL** (PL-PgSQL), bases NoSQL (MongoDB, Redis) y búsqueda full-text.
-*   **DevOps & QA:** Integración continua en **Azure DevOps** (On-Premise/Cloud) y pipelines de calidad con **SonarQube**, **Postman** y pruebas UAT.
+*   **Sistemas Distribuidos:** Domain-Driven Design (DDD), Clean Architecture y CQRS estricto (Artifact Mangosta) con **C#/.NET** y **Java**, orquestado con eventos en **Apache Kafka**.
+*   **Multi-Runtime Desktop:** Arquitecturas limpias integrando contenedores nativos mediante **Rust (Tauri)**, **Go (Wails)** y **Python (PyWebView)** junto a Artifact Barracuda y Atomic-UI.
+*   **Bases de Datos & Data Engineering:** Optimización de alto volumen en **SQL Server** (T-SQL) y **PostgreSQL** (PL-PgSQL), bases NoSQL (MongoDB, Redis) y búsqueda full-text (SQLite FTS5).
+*   **DevOps & QA:** Integración continua en **Azure DevOps** (On-Premise/Cloud), lanzamientos multiplataforma automatizados en GitHub Actions y pipelines de calidad con SonarQube, Postman y pruebas UAT.
+
+---
 
 ### 🧠 DIY AI Lab & Infraestructura Autohospedada
-*   **Hardware Bare-Metal:** Montaje y administración SysAdmin de servidor dedicado Ubuntu Linux con GPU de centro de datos **NVIDIA Tesla V100 (32 GB VRAM)**.
-*   **Inferencia 100% Local:** Ejecución segura sin dependencia de la nube, expuesta mediante **Cloudflare** y **Open WebUI**.
-*   **Agentes & RAG:** Orquestación de agentes (GitHub Copilot, Claude Code, OpenAI Codex, Google Antigravity) para refactorización, QA y auditoría arquitectónica.
+*   **Hardware Bare-Metal:** Montaje y administración SysAdmin de servidor dedicado Ubuntu Linux con GPU de centro de datos **NVIDIA Tesla V100 (32 GB VRAM)** y refrigeración modificada a medida.
+*   **Inferencia 100% Local:** Ejecución segura de modelos de código y razonamiento (Qwen3-Coder, llama.cpp) sin dependencia de la nube, expuesta de forma privada mediante **Cloudflare** y **Open WebUI**.
+*   **Agentes, MCP/ACP & RAG:** Orquestación de agentes de IA especializados e indexación local (SQLite FTS5) para co-ingeniería, refactorización, QA automatizado y verificación arquitectónica.
